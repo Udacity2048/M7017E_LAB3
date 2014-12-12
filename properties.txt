@@ -1,0 +1,4 @@
+#Thu Dec 11 14:15:39 CET 2014
+address=baptistouta54@hotmail.fr
+greetingTime=3.762
+greeting=newgreeting.mp3
