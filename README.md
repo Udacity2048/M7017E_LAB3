@@ -3,7 +3,7 @@
 
 LAB3 M7017E IP Answering Machine.
 
-![Alt text](doc/gui.PNG "Answering Machine Tool")
+![Alt text](doc/GUI.PNG "Answering Machine Tool")
 
 This report is about LAB3 of the course M7017E Multimedia Systems, proposed by Karl Anderson for Luleå University of Technology (LUT). 
 
